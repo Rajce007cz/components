@@ -1,0 +1,706 @@
+CRITICAL - 2024-04-19 07:53:20 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:53:32 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:56:07 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:56:08 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:56:11 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:58:11 --> Attempt to read property "pic" on array
+in APPPATH\Views\compInfo.php on line 9.
+ 1 APPPATH\Views\compInfo.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pic" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 9)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:58:12 --> Attempt to read property "pic" on array
+in APPPATH\Views\compInfo.php on line 9.
+ 1 APPPATH\Views\compInfo.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pic" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 9)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:58:12 --> Attempt to read property "pic" on array
+in APPPATH\Views\compInfo.php on line 9.
+ 1 APPPATH\Views\compInfo.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pic" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 9)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:59:05 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 07:59:06 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:01:02 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:01:03 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:01:04 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:01:04 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:01:05 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:03:31 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:03:32 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:03:32 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:04:22 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:04:23 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:04:23 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:04:29 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:06:06 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:06:35 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:06:59 --> Undefined property: App\Controllers\Main::$come
+in APPPATH\Controllers\Main.php on line 39.
+ 1 APPPATH\Controllers\Main.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Main::$come', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Controllers\\Main.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:01 --> Undefined property: App\Controllers\Main::$come
+in APPPATH\Controllers\Main.php on line 39.
+ 1 APPPATH\Controllers\Main.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Main::$come', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Controllers\\Main.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:13 --> Undefined variable $com
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $com', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:14 --> Undefined variable $com
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $com', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:20 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:21 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:25 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:25 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:26 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:27 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:27 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:07:27 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:11:13 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:11:56 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:11:57 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:12:11 --> Attempt to read property "nazev" on array
+in APPPATH\Views\compInfo.php on line 8.
+ 1 APPPATH\Views\compInfo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazev" on array', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 8)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-19 08:21:44 --> mysqli_sql_exception: Not unique table/alias: 'mt_parametr' in C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\krajca\components\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\krajca\components\system\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\krajca\components\system\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+#6 C:\xampp\htdocs\krajca\components\app\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+#7 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+#8 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#9 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\krajca\components\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-19 08:21:44 --> Not unique table/alias: 'mt_parametr'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mt_komponent`
+INNER JOIN `mt_vyrobce` ON `mt_komponent`.`vyrobce_id` = `mt_vyrobce`.`idVyrobce`
+INNER JOIN `mt_parametr` ON `mt_komponent`.`id` = `mt_parametr`.`komponent_id`
+INNER JOIN `mt_parametr` ON `mt_nazevparametr`.`id` = `mt_parametr`.`nazevParametru_id`
+WHERE `mt_komponent`.`id` = :komponent.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+ 4 APPPATH\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-19 08:22:32 --> mysqli_sql_exception: Unknown column 'mt_parametr.nazevParametru_id' in 'on clause' in C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\krajca\components\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\krajca\components\system\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\krajca\components\system\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+#6 C:\xampp\htdocs\krajca\components\app\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+#7 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+#8 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#9 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\krajca\components\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-19 08:22:32 --> Unknown column 'mt_parametr.nazevParametru_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mt_komponent`
+INNER JOIN `mt_vyrobce` ON `mt_komponent`.`vyrobce_id` = `mt_vyrobce`.`idVyrobce`
+INNER JOIN `mt_parametr` ON `mt_komponent`.`id` = `mt_parametr`.`komponent_id`
+INNER JOIN `mt_nazevparametr` ON `mt_nazevparametr`.`id` = `mt_parametr`.`nazevParametru_id`
+WHERE `mt_komponent`.`id` = :komponent.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+ 4 APPPATH\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-19 08:30:29 --> mysqli_sql_exception: Unknown column 'mt_parametr.nazevParametru_id' in 'on clause' in C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\krajca\components\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\krajca\components\system\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\krajca\components\system\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+#6 C:\xampp\htdocs\krajca\components\app\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+#7 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+#8 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#9 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\krajca\components\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-19 08:30:29 --> Unknown column 'mt_parametr.nazevParametru_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mt_komponent`
+INNER JOIN `mt_vyrobce` ON `mt_komponent`.`vyrobce_id` = `mt_vyrobce`.`idVyrobce`
+INNER JOIN `mt_parametr` ON `mt_komponent`.`id` = `mt_parametr`.`komponent_id`
+INNER JOIN `mt_nazevparametr` ON `mt_nazevparametr`.`id` = `mt_parametr`.`nazevParametru_id`
+WHERE `mt_komponent`.`id` = :komponent.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+ 4 APPPATH\Controllers\Main.php(39): CodeIgniter\BaseModel->find('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:40:06 --> syntax error, unexpected token "as", expecting ";"
+in APPPATH\Views\compInfo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 3 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:40:07 --> syntax error, unexpected token "as", expecting ";"
+in APPPATH\Views\compInfo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 3 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:48:23 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:48:44 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:48:44 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:48:45 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:01 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:02 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:02 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:03 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:03 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:49:03 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\compInfo.php on line 13.
+ 1 APPPATH\Views\compInfo.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(40): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:50:50 --> join() expects at most 2 arguments, 3 given
+in APPPATH\Controllers\Main.php on line 40.
+ 1 APPPATH\Controllers\Main.php(40): join('nazevparametr', 'nazevparametr.id = parametr.nazevParametr_id', 'inner')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:50:51 --> join() expects at most 2 arguments, 3 given
+in APPPATH\Controllers\Main.php on line 40.
+ 1 APPPATH\Controllers\Main.php(40): join('nazevparametr', 'nazevparametr.id = parametr.nazevParametr_id', 'inner')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:50:53 --> join() expects at most 2 arguments, 3 given
+in APPPATH\Controllers\Main.php on line 40.
+ 1 APPPATH\Controllers\Main.php(40): join('nazevparametr', 'nazevparametr.id = parametr.nazevParametr_id', 'inner')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 08:51:33 --> Attempt to read property "nazevParametru" on null
+in APPPATH\Views\compInfo.php on line 14.
+ 1 APPPATH\Views\compInfo.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nazevParametru" on null', 'C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\krajca\\components\\app\\Views\\compInfo.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('compInfo', [], true)
+ 5 APPPATH\Controllers\Main.php(41): view('compInfo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-19 08:53:13 --> mysqli_sql_exception: Unknown column 'mt_parametr.id' in 'where clause' in C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\krajca\components\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\krajca\components\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\krajca\components\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\krajca\components\system\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\krajca\components\system\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+#6 C:\xampp\htdocs\krajca\components\app\Controllers\Main.php(40): CodeIgniter\BaseModel->find('1')
+#7 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+#8 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#9 C:\xampp\htdocs\krajca\components\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\krajca\components\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-19 08:53:13 --> Unknown column 'mt_parametr.id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mt_parametr`
+INNER JOIN `mt_nazevparametr` ON `mt_nazevparametr`.`id` = `mt_parametr`.`nazevParametr_id`
+WHERE `mt_parametr`.`id` = :parametr.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(196): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(true, '1')
+ 4 APPPATH\Controllers\Main.php(40): CodeIgniter\BaseModel->find('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Main->getInfo('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
