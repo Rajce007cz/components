@@ -25,7 +25,7 @@ class Database extends Config
      * The default database connection.
      */
     public array $default = [
-        'DSN'          => '',
+        'DSN'          => '', 
         'hostname'     => 'localhost',
         'username'     => 'c46krajca',
         'password'     => 'tadyjehesloodtvedatabaze',
